@@ -1,0 +1,6 @@
+{
+  "name": "GlyphLab",
+  "description": "Experimental typography tool for converting text into modular glyphs with custom font support and real-time property tweaking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
